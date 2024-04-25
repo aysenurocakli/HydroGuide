@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733358440717",
+    "project_id": "hydroguide2-4a440",
+    "storage_bucket": "hydroguide2-4a440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733358440717:android:775b8ed70ec05d671e3044",
+        "android_client_info": {
+          "package_name": "com.example.hydro_guide2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPRLJGM62IKhtnVe_OlS3PnF5qL7huCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
